@@ -1,0 +1,27 @@
+## Terminal1..: Ctrl + Alt + T
+
+## **Terminal2..: Ctrl + Alt + F1**
+
+## Gráfico..: Ctrl + Alt + F7
+
+## sudo;
+
+Todos os comandos no Linux é em minusculo;
+
+**sudo apt update - verifica se há atualizações.**
+
+**sudo apt upgrade - atualiza o sistema.**
+
+**sudo apt full-upgrade - ele força atualizações que não foram instaladas.**
+
+**sudo apt dist-upgrade - atualiza algo da distribuição do Linux Mint.**
+
+**sudo apt autoremove - remover automaticamente softwares desnecessários.**
+
+**sudo apt autoclean - faz a auto limpeza.**
+
+**sudo reboot - reinicia o Linux.**
+
+**history - histórico de todos os comandos escritos.**
+
+**sudo apt install - instalar softwares.**
